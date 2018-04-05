@@ -10,3 +10,15 @@
 ![Image of graph3](https://github.com/imusaeva99/hw6/blob/master/Screen%20Shot%202018-04-02%20at%2011.28.32%20PM.png)
 
 ## Часть 2
+1. Три самых частотных модификатора существительного ___question___: _difficut, important, fundamental_
+![Image 1SE](https://github.com/imusaeva99/hw6/blob/master/Screen%20Shot%202018-04-05%20at%2012.49.06%20AM.png)
+
+2. С глаголом ___study___ употребляются дополнения: _map, law, literature_. С глаголом ___learn___ употребляются дополнения: _lot, experience, lesson_. Дополнения, употребляемые с обоими глаголами: _art, behavior, language_.
+
+![Image 2SE](https://github.com/imusaeva99/hw6/blob/master/Screen%20Shot%202018-04-05%20at%2012.51.15%20AM.png)
+
+3. Сравним статистику частоты употребления существительного _lecturer_ в двух корпусах: BNC (на Sketch Engine) и Google Books (британском подкорпусе). На графике корпуса Google Books будем смотерть только на красную линию, которая представляет статистику для данного существительного, написанного строчными буквами (__Lecturer__ _с заглавной буквой очень сложно представить в начале предложения без артикля или модификатора – это имя собственное? Тогда откуда такая частота употребления?_). Кроме этого, будем сравнивать только участок с 1969 до 1994 гг., как в BNC. Графики отличаются. Да, оба отмечают рост частоты употребления, однако пики не совпадают. В Google Books наибольшая частота употребления в выбранном периоде отмечается в начале 1980-ых, а в BNC – в начале 1990-ых. Такое расхождение можно объяснить только различным составом корпусов: BNC репрезентативен, Google Books – нет.
+
+![Image 3SE](https://github.com/imusaeva99/hw6/blob/master/Screen%20Shot%202018-04-05%20at%201.24.16%20AM.png)
+![Image 4SE](https://github.com/imusaeva99/hw6/blob/master/Screen%20Shot%202018-04-05%20at%201.22.33%20AM.png)
+![Image GNV](https://github.com/imusaeva99/hw6/blob/master/Screen%20Shot%202018-04-05%20at%201.22.44%20AM.png)
